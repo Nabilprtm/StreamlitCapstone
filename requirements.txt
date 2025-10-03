@@ -1,6 +1,7 @@
 streamlit
 pandas
 scikit-learn
-st-aggrid
+streamlit-aggrid
 streamlit-option-menu
 ntlk
+
